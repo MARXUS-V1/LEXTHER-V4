@@ -4,7 +4,7 @@ from datetime import datetime
 #List of stocks to track
 tickers = ["AAPL", "TSLA", "BTC-USD"]
 
-print(f"market update:
+print(f"market update:")
 {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
                          
 print("-"*30)
